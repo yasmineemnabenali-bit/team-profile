@@ -12,3 +12,6 @@ We are a team of developers learning Git and GitHub.
 - Python
 - Git
 - GitHub
+- HTML
+
+## Our Goals
